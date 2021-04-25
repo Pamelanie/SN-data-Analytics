@@ -1,1 +1,9 @@
-Task 1
+Task 1 - Creating the Github Repository
+1. I installed the Gitbash application from the steps on the video and it was quite easy.
+2. I also ran the codes but it was a but challenging at first, so I had to take sometime to really understand the video before I pulled through.
+3. I was able to reach out to another colleague when I got stuck and she helped out too.
+
+
+Task 2 - Creating a folder inside the repository
+1. This step was a bit confusing but I got it at the end.
+2. 
